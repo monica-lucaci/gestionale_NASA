@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NASA_gestionale_task.props" />
+</Project>

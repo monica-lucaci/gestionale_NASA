@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\models\\oggettocelestesistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:models\\oggettocelestesistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\controllers\\oggettocelestecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:controllers\\oggettocelestecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\services\\oggettocelesteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:services\\oggettocelesteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\utils\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:utils\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\repositories\\oggettocelesterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:repositories\\oggettocelesterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\repositories\\oggettocelestesistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:repositories\\oggettocelestesistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\repositories\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:repositories\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\dto\\sistemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:dto\\sistemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|c:\\users\\utente\\source\\repos\\nasa_gestionale_task\\dto\\oggettocelestedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A693A8-B352-447F-A84E-1E55370294FC}|NASA_gestionale_task.csproj|solutionrelative:dto\\oggettocelestedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "Models\\Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Models\\Sistema.cs",
+              "RelativeToolTip": "Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:27:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OggettoCelesteController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Controllers\\OggettoCelesteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OggettoCelesteController.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Controllers\\OggettoCelesteController.cs",
+              "RelativeToolTip": "Controllers\\OggettoCelesteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:49:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "Controllers\\SistemaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:49:34.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Risposta.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Utils\\Risposta.cs",
+              "RelativeDocumentMoniker": "Utils\\Risposta.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Utils\\Risposta.cs",
+              "RelativeToolTip": "Utils\\Risposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:45:53.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Services\\IService.cs",
+              "RelativeToolTip": "Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:44:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OggettoCelesteService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Services\\OggettoCelesteService.cs",
+              "RelativeDocumentMoniker": "Services\\OggettoCelesteService.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Services\\OggettoCelesteService.cs",
+              "RelativeToolTip": "Services\\OggettoCelesteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:44:50.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OggettoCelesteSistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Models\\OggettoCelesteSistema.cs",
+              "RelativeDocumentMoniker": "Models\\OggettoCelesteSistema.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Models\\OggettoCelesteSistema.cs",
+              "RelativeToolTip": "Models\\OggettoCelesteSistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:59:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OggettoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Models\\OggettoCeleste.cs",
+              "RelativeDocumentMoniker": "Models\\OggettoCeleste.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Models\\OggettoCeleste.cs",
+              "RelativeToolTip": "Models\\OggettoCeleste.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:35:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OggettoCelesteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\OggettoCelesteRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\OggettoCelesteRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\OggettoCelesteRepo.cs",
+              "RelativeToolTip": "Repositories\\OggettoCelesteRepo.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:15:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:01:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OggettoCelesteSistemaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\OggettoCelesteSistemaRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\OggettoCelesteSistemaRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\OggettoCelesteSistemaRepo.cs",
+              "RelativeToolTip": "Repositories\\OggettoCelesteSistemaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:01:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SistemaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\SistemaRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\SistemaRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\SistemaRepo.cs",
+              "RelativeToolTip": "Repositories\\SistemaRepo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwFcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:15:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SistemaService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Services\\SistemaService.cs",
+              "RelativeDocumentMoniker": "Services\\SistemaService.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Services\\SistemaService.cs",
+              "RelativeToolTip": "Services\\SistemaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:45:05.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Irepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\Irepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Irepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\Repositories\\Irepo.cs",
+              "RelativeToolTip": "Repositories\\Irepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:15:07.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SistemaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\DTO\\SistemaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SistemaDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\DTO\\SistemaDTO.cs",
+              "RelativeToolTip": "DTO\\SistemaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:48:28.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OggettoCelesteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\DTO\\OggettoCelesteDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OggettoCelesteDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\NASA_gestionale_task\\DTO\\OggettoCelesteDTO.cs",
+              "RelativeToolTip": "DTO\\OggettoCelesteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:47:52.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

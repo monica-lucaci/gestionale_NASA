@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "NASA_gestionale_task.Controllers.OggettoCelesteController",
+    "Method": "ElencoOggettiCelesti",
+    "RelativePath": "OggettoCeleste",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "NASA_gestionale_task.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

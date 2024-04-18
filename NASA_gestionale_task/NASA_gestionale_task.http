@@ -1,0 +1,6 @@
+@NASA_gestionale_task_HostAddress = http://localhost:5282
+
+GET {{NASA_gestionale_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
